@@ -3,7 +3,20 @@
       {
          "codObjeto":"QJ311669085BR",
          "eventos":[
-            
+            {
+               "codigo":"BDE",
+               "descricao":"Objeto entregue ao destinatário",
+               "dtHrCriado":"2022-06-01T15:44:27",
+               "tipo":"01",
+               "unidade":{
+                  "endereco":{
+                     "cidade":"ILHEUS",
+                     "uf":"BA"
+                  },
+                  "tipo":"Unidade de Distribuição"
+               },
+               "urlIcone":"/public-resources/img/smile.png"
+            },
             {
                "codigo":"OEC",
                "descricao":"Objeto saiu para entrega ao destinatário",
