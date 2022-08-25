@@ -3,39 +3,7 @@
       {
          "codObjeto":"QJ311669085BR",
          "eventos":[
-            {
-               "codigo":"BDE",
-               "descricao":"Objeto entregue ao destinatário",
-               "dtHrCriado":"2022-06-01T15:44:27",
-               "tipo":"01",
-               "unidade":{
-                  "endereco":{
-                     "cidade":"ILHEUS",
-                     "uf":"BA"
-                  },
-                  "tipo":"Unidade de Distribuição"
-               },
-               "urlIcone":"/public-resources/img/smile.png"
-            },
-            {
-               "codigo":"OEC",
-               "descricao":"Objeto saiu para entrega ao destinatário",
-               "dtHrCriado":"2022-06-01T10:46:33",
-               "tipo":"01",
-               "unidade":{
-                  "endereco":{
-                     "bairro":"CENTRO",
-                     "cep":"45653971",
-                     "cidade":"ILHEUS",
-                     "complemento":"1º ANDAR",
-                     "logradouro":"RUA MARQUES DE PARANAGUA",
-                     "numero":"200",
-                     "uf":"BA"
-                  },
-                  "tipo":"Unidade de Distribuição"
-               },
-               "urlIcone":"/public-resources/img/pre-atendimento-cor.png"
-            },
+            
             {
                "codigo":"DO",
                "descricao":"Objeto em trânsito - por favor aguarde",
